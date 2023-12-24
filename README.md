@@ -56,7 +56,8 @@ Here, we’re examining our dataset for missing values. Luckily our dataset does
 ### <a name="_wr9uu45fp7h"></a>Data Preparation and Column Transformation
 In this step, we are preparing the dataset for analysis. We remove unnecessary columns and rename some columns to improve clarity and consistency.In this step, we are preparing the dataset for analysis. We remove unnecessary columns and rename some columns to improve clarity and consistency.This can be done simply by going to Home>Find and Select> Find and Replace.
 ### <a name="_ry4tb841c3h8"></a>Check for any outliers
-In order to have a more predictable and more insightful result we will check if there are any outliers.We will use charts to see what’s happening with the data since they give an easy to understand picture of our data. For this analysis let’s use a boxplot for the Income column.![](Aspose.Words.c2416a2e-c6a2-4495-a4cb-ff26cea33f78.002.png)
+In order to have a more predictable and more insightful result we will check if there are any outliers.We will use charts to see what’s happening with the data since they give an easy to understand picture of our data. For this analysis let’s use a boxplot for the Income column.
+![](Aspose.Words.c2416a2e-c6a2-4495-a4cb-ff26cea33f78.002.png)
 
 .
 
